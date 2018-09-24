@@ -1,8 +1,8 @@
 #include "mywidget.h"
 
-#include <QPushButton>
+#include <QLabel>
 
 MyWidget::MyWidget(QWidget *parent) : QWidget(parent)
 {
-    new QPushButton("push", this);
+    new QLabel("mywidget label", this);
 }
