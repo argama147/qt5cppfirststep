@@ -26,5 +26,5 @@ void Widget::received()
 {
     qDebug() << __FUNCTION__;
     disconnect(m_QPushButton, &QPushButton::clicked,
-            this, &Widget::received);
+               this, &Widget::received);
 }
