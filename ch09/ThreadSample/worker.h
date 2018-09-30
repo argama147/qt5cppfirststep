@@ -9,8 +9,6 @@ class Worker : public QObject
 public:
     Worker(QObject *parent = nullptr);
     ~Worker();
-signals:
-    void emitSignal();
 public slots:
     void doWork();
 signals:
