@@ -11,6 +11,10 @@ https://techbookfest.org/product/4924540912140288?productVariantID=6365386482122
 ## BOOTH
 https://eugo.booth.pm/items/1042093
 
+# 技術書典9スペシャルオンラインイベント(Youtube)で本書が紹介されました
+
+https://youtube.com/watch?v=IhBvdPb8lHY&feature=youtu.be&t=2756
+
 # サポート
 
 本書に関するご質問、ご指摘等ございましたら、Issuesに記述していただくか、[Twitterアカウント](https://twitter.com/argama147)にご連絡ください。
