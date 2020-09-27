@@ -4,12 +4,18 @@
 <img src="https://s2.booth.pm/7287bb46-6dfb-43c3-94bd-827bc1141389/i/1042093/cc65554f-b40c-49ef-b189-69a19d9e9398_base_resized.jpg" width="320px">
 下記のサイト様で取り扱っています。
 
-## 技術書典9 オンラインマーケット
+## 技術書典9 オンラインマーケット（PDF版）
 
 https://techbookfest.org/product/4924540912140288?productVariantID=6365386482122752
 
 ## BOOTH
 https://eugo.booth.pm/items/1042093
+
+## とらのあな
+
+https://ecs.toranoana.jp/tora/ec/item/040030858034/
+※セット割引を適用している為、紙版を購入すると電子版が無料で付いてきます。
+
 
 # 技術書典9スペシャルオンラインイベント(Youtube)で本書が紹介されました
 
